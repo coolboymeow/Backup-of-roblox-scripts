@@ -105,6 +105,8 @@ local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4 = Instance
 local UICorner_5 = Instance.new("UICorner")
 local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5 = Instance.new("TextButton")
 local UICorner_6 = Instance.new("UICorner")
+local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6 = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
 local Frame_2 = Instance.new("ImageLabel")
 local Close = Instance.new("TextButton")
 local ImageButton = Instance.new("ImageButton")
@@ -1178,7 +1180,7 @@ IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Position = UDim2
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Size = UDim2.new(0, 271, 0, 21)
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.ZIndex = 7
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Font = Enum.Font.SourceSansSemibold
-IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Text = "Alpha X (F9 FOR GAME LIST)"
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Text = "Alpha X for maximpvp"
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextSize = 21.000
 IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextWrapped = true
@@ -1203,6 +1205,23 @@ IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5.TextXAlignment =
 
 UICorner_6.CornerRadius = UDim.new(0, 4)
 UICorner_6.Parent = IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5
+
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Name = "I already told you, its fucking skidded but NOOO, you have to look at the code"
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Parent = ScrollingFrame
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.BackgroundColor3 = Color3.fromRGB(252, 110, 99)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Position = UDim2.new(-0.0863636434, 27, 0.491214067, -1156)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Size = UDim2.new(0, 271, 0, 21)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.ZIndex = 7
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Font = Enum.Font.SourceSansSemibold
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Text = "Jailbreak auto rob"
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.TextSize = 21.000
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.TextWrapped = true
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_7.CornerRadius = UDim.new(0, 4)
+UICorner_7.Parent = IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6
 
 Frame_2.Name = "Frame"
 Frame_2.Parent = Main
@@ -1252,29 +1271,29 @@ TextButton.TextWrapped = true
 
 -- Scripts:
 
-local function PREKRU_fake_script() -- Main.LocalScript 
+local function DQUSZXU_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	script.Parent.Position = UDim2.new(0.5,-(script.Parent.Size.X.Offset/2),0.1,-(script.Parent.Size.Y.Offset/-20))
 end
-coroutine.wrap(PREKRU_fake_script)()
-local function SJOG_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
+coroutine.wrap(DQUSZXU_fake_script)()
+local function PDVK_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
 	end)
 end
-coroutine.wrap(SJOG_fake_script)()
-local function HIDY_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
+coroutine.wrap(PDVK_fake_script)()
+local function OUQOQDJ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		print("the grand crossing Escape, Among us obby, Arsenal, prison life, tower of misery, Area 47, tower of hell, Anime Fighting Simulator, Siren Head Rebirth, doomspire brickbattle, Natural Disaster Survival, the maze, like some horror games")
 	end)
 end
-coroutine.wrap(HIDY_fake_script)()
-local function UMPQOWQ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
+coroutine.wrap(OUQOQDJ_fake_script)()
+local function PWCMC_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1282,8 +1301,8 @@ local function UMPQOWQ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOy
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/coolboymeow/Backup-of-roblox-scripts/main/DailyHub" ,true))()
 	end)
 end
-coroutine.wrap(UMPQOWQ_fake_script)()
-local function GKKQTX_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Script 
+coroutine.wrap(PWCMC_fake_script)()
+local function UVSSS_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1292,8 +1311,8 @@ local function GKKQTX_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyo
 		loadstring(game:HttpGetAsync('https://alpha1004.tech/scripts/AlphaX.lua'))()
 	end)
 end
-coroutine.wrap(GKKQTX_fake_script)()
-local function VQKDGVJ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5.Script 
+coroutine.wrap(UVSSS_fake_script)()
+local function EZDHUX_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1302,8 +1321,16 @@ local function VQKDGVJ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOy
 		loadstring(game:HttpGetAsync('https://alpha1004.tech/scripts/AlphaX.lua'))()
 	end)
 end
-coroutine.wrap(VQKDGVJ_fake_script)()
-local function GFJX_fake_script() -- Close.LocalScript 
+coroutine.wrap(EZDHUX_fake_script)()
+local function GDZGST_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Script 
+	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:GetObjects("rbxassetid://1461971147")[1].Source)()
+	end)
+end
+coroutine.wrap(GDZGST_fake_script)()
+local function YYPSSFO_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1311,8 +1338,8 @@ local function GFJX_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.Open.Visible = true
 	end)
 end
-coroutine.wrap(GFJX_fake_script)()
-local function LMZYLU_fake_script() -- Close.LocalScript 
+coroutine.wrap(YYPSSFO_fake_script)()
+local function VQWAP_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1320,8 +1347,8 @@ local function LMZYLU_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.TextButton.Visible = true
 	end)
 end
-coroutine.wrap(LMZYLU_fake_script)()
-local function QKIX_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(VQWAP_fake_script)()
+local function EIXC_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1329,4 +1356,4 @@ local function QKIX_fake_script() -- TextButton.LocalScript
 		script.Parent.Parent.TextButton.Visible = false
 	end)
 end
-coroutine.wrap(QKIX_fake_script)()
+coroutine.wrap(EIXC_fake_script)()
