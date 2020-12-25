@@ -101,6 +101,8 @@ local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2 = Instance
 local UICorner_3 = Instance.new("UICorner")
 local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3 = Instance.new("TextButton")
 local UICorner_4 = Instance.new("UICorner")
+local IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4 = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
 local Frame_2 = Instance.new("ImageLabel")
 local Close = Instance.new("TextButton")
 local ImageButton = Instance.new("ImageButton")
@@ -1166,6 +1168,23 @@ IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.TextXAlignment =
 UICorner_4.CornerRadius = UDim.new(0, 4)
 UICorner_4.Parent = IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3
 
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Name = "I already told you, its fucking skidded but NOOO, you have to look at the code"
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Parent = ScrollingFrame
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.BackgroundColor3 = Color3.fromRGB(252, 110, 99)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Position = UDim2.new(-0.0863636434, 27, 0.491214067, -1156)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Size = UDim2.new(0, 271, 0, 21)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.ZIndex = 7
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Font = Enum.Font.SourceSansSemibold
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Text = "Alpha X (F9 FOR GAME LIST)"
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextSize = 21.000
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextWrapped = true
+IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_5.CornerRadius = UDim.new(0, 4)
+UICorner_5.Parent = IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4
+
 Frame_2.Name = "Frame"
 Frame_2.Parent = Main
 Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -1214,29 +1233,29 @@ TextButton.TextWrapped = true
 
 -- Scripts:
 
-local function JQVZB_fake_script() -- Main.LocalScript 
+local function TRDO_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	script.Parent.Position = UDim2.new(0.5,-(script.Parent.Size.X.Offset/2),0.1,-(script.Parent.Size.Y.Offset/-20))
 end
-coroutine.wrap(JQVZB_fake_script)()
-local function NEHJZ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
+coroutine.wrap(TRDO_fake_script)()
+local function RAFIFCZ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
 	end)
 end
-coroutine.wrap(NEHJZ_fake_script)()
-local function SBOE_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
+coroutine.wrap(RAFIFCZ_fake_script)()
+local function IOVLSMY_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		print("the grand crossing Escape, Among us obby, Arsenal, prison life, tower of misery, Area 47, tower of hell, Anime Fighting Simulator, Siren Head Rebirth, doomspire brickbattle, Natural Disaster Survival, the maze, like some horror games")
 	end)
 end
-coroutine.wrap(SBOE_fake_script)()
-local function RNJVL_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
+coroutine.wrap(IOVLSMY_fake_script)()
+local function ZAGUTQ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1244,8 +1263,18 @@ local function RNJVL_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyou
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/coolboymeow/Backup-of-roblox-scripts/main/DailyHub" ,true))()
 	end)
 end
-coroutine.wrap(RNJVL_fake_script)()
-local function YSJP_fake_script() -- Close.LocalScript 
+coroutine.wrap(ZAGUTQ_fake_script)()
+local function ENSQA_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Script 
+	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		print("Lumber Tycoon 2, Murder Mystery 2, Prison Life 2, Tower of Hell, Natural Disaster Survival, Welcome to Bloxburg, Jailbreak, Adopt Me!")
+		getgenv().Key = 'AlphaXV2_117bf993d02b23f5172773120de097ec'
+		loadstring(game:HttpGetAsync('https://alpha1004.tech/scripts/AlphaX.lua'))()
+	end)
+end
+coroutine.wrap(ENSQA_fake_script)()
+local function RKTSLD_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1253,8 +1282,8 @@ local function YSJP_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.Open.Visible = true
 	end)
 end
-coroutine.wrap(YSJP_fake_script)()
-local function VQPH_fake_script() -- Close.LocalScript 
+coroutine.wrap(RKTSLD_fake_script)()
+local function XYXKDJL_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1262,8 +1291,8 @@ local function VQPH_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.TextButton.Visible = true
 	end)
 end
-coroutine.wrap(VQPH_fake_script)()
-local function KWAAB_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(XYXKDJL_fake_script)()
+local function BZDJ_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -1271,4 +1300,4 @@ local function KWAAB_fake_script() -- TextButton.LocalScript
 		script.Parent.Parent.TextButton.Visible = false
 	end)
 end
-coroutine.wrap(KWAAB_fake_script)()
+coroutine.wrap(BZDJ_fake_script)()
