@@ -117,7 +117,7 @@ local TextButton = Instance.new("TextButton")
 --Properties:
 
 AccessUI.Name = "AccessUI"
-AccessUI.Parent = game.Workspace.FE SCRIPT HUB
+AccessUI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 AccessUI.ResetOnSpawn = false
 
 Main.Name = "Main"
@@ -1290,29 +1290,29 @@ TextButton.TextWrapped = true
 
 -- Scripts:
 
-local function QCHPMS_fake_script() -- Main.LocalScript 
+local function YNNCZW_fake_script() -- Main.LocalScript 
 	local script = Instance.new('LocalScript', Main)
 
 	script.Parent.Position = UDim2.new(0.5,-(script.Parent.Size.X.Offset/2),0.1,-(script.Parent.Size.Y.Offset/-20))
 end
-coroutine.wrap(QCHPMS_fake_script)()
-local function EPMOAP_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
+coroutine.wrap(YNNCZW_fake_script)()
+local function PUYH_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
 	end)
 end
-coroutine.wrap(EPMOAP_fake_script)()
-local function AGETL_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
+coroutine.wrap(PUYH_fake_script)()
+local function DUZBRBW_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		print("the grand crossing Escape, Among us obby, Arsenal, prison life, tower of misery, Area 47, tower of hell, Anime Fighting Simulator, Siren Head Rebirth, doomspire brickbattle, Natural Disaster Survival, the maze, like some horror games")
 	end)
 end
-coroutine.wrap(AGETL_fake_script)()
-local function USEM_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
+coroutine.wrap(DUZBRBW_fake_script)()
+local function OAPS_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1320,8 +1320,8 @@ local function USEM_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouh
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/coolboymeow/Backup-of-roblox-scripts/main/DailyHub" ,true))()
 	end)
 end
-coroutine.wrap(USEM_fake_script)()
-local function RCMFTGE_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Script 
+coroutine.wrap(OAPS_fake_script)()
+local function KXCH_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_4)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1330,8 +1330,8 @@ local function RCMFTGE_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOy
 		loadstring(game:HttpGetAsync('https://alpha1004.tech/scripts/AlphaX.lua'))()
 	end)
 end
-coroutine.wrap(RCMFTGE_fake_script)()
-local function TGUYJT_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5.Script 
+coroutine.wrap(KXCH_fake_script)()
+local function DCJGJ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_5)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1340,16 +1340,16 @@ local function TGUYJT_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyo
 		loadstring(game:HttpGetAsync('https://alpha1004.tech/scripts/AlphaX.lua'))()
 	end)
 end
-coroutine.wrap(TGUYJT_fake_script)()
-local function YEZA_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Script 
+coroutine.wrap(DCJGJ_fake_script)()
+local function WWVZ_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_6)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:GetObjects("rbxassetid://1461971147")[1].Source)()
 	end)
 end
-coroutine.wrap(YEZA_fake_script)()
-local function VYVB_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_7.Script 
+coroutine.wrap(WWVZ_fake_script)()
+local function ZBYB_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_7.Script 
 	local script = Instance.new('Script', IalreadytoldyouitsfuckingskiddedbutNOOOyouhavetolookatthecode_7)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2139,8 +2139,8 @@ local function VYVB_fake_script() -- IalreadytoldyouitsfuckingskiddedbutNOOOyouh
 		end
 	end)
 end
-coroutine.wrap(VYVB_fake_script)()
-local function DTHUSKP_fake_script() -- Close.LocalScript 
+coroutine.wrap(ZBYB_fake_script)()
+local function GQKAXF_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -2148,8 +2148,8 @@ local function DTHUSKP_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.Open.Visible = true
 	end)
 end
-coroutine.wrap(DTHUSKP_fake_script)()
-local function AARU_fake_script() -- Close.LocalScript 
+coroutine.wrap(GQKAXF_fake_script)()
+local function RJYUI_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -2157,8 +2157,8 @@ local function AARU_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.TextButton.Visible = true
 	end)
 end
-coroutine.wrap(AARU_fake_script)()
-local function HBTPM_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(RJYUI_fake_script)()
+local function TOTTN_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -2166,4 +2166,4 @@ local function HBTPM_fake_script() -- TextButton.LocalScript
 		script.Parent.Parent.TextButton.Visible = false
 	end)
 end
-coroutine.wrap(HBTPM_fake_script)()
+coroutine.wrap(TOTTN_fake_script)()
